@@ -1,4 +1,4 @@
-# Lifeage-teansformation-synthesis
+# Lifeage-transformation-synthesis
 
 ## Pre-Requisits
 You must have a **GPU with CUDA support** in order to run the code.
